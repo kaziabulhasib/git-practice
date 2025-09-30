@@ -1,0 +1,3 @@
+- install next js
+-install shadcn
+- commit and 
